@@ -100,7 +100,7 @@ def run_tool(tool):
             print("3. Scan de port spécifique")
             print("4. Scan de version")
             print("5. Scan discret")
-            # Ajoutez d'autres options de scan ici
+            print("6. Scan agressif")
             scan_choice = input("Sélectionnez une option de scan : ")
             command = f"sudo nmap -v -Pn {ip_address}"  # Commande de base pour le scan
             
