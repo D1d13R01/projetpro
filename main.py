@@ -117,7 +117,6 @@ def run_tool(tool):
             elif scan_choice == "5":
                 command += " -sS -sV -T2"  #scan discret
             elif scan_choice == "6": 
-
                 command += " -A"  #scan agressif
             else:
                 input("Option invalide. Appuyez sur Entrée pour revenir au menu.")
