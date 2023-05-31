@@ -33,8 +33,8 @@ J’espère que cet outil vous servira et vous aidera :)
 
 LISTE DES OUTILS DIPONIBLES : 
 
- SpiderFoot : https://github.com/smicallef/spiderfoot
- The Harvester : https://github.com/laramies/theHarvester
+ - SpiderFoot : https://github.com/smicallef/spiderfoot
+ - The Harvester : https://github.com/laramies/theHarvester
  Maltego : https://www.kali.org/tools/maltego/
  Nmap : https://www.kali.org/tools/nmap/
  Gobuster : https://github.com/OJ/gobuster
