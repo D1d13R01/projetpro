@@ -50,3 +50,7 @@ Si vous rencontrez un problème avec un outil n'hésitez pas à consulter sa pag
 Si vous avez l'outil en question mais qui ne se lance pas alors n’hésitez pas à faire un clic droit sur l'outil puis cliquer sur Modifier l'application, ensuite modifier son nom en mettant le nom de base de l'outil :
 
 ![image](https://github.com/D1d13R01/projetpro/assets/135154982/3d454154-6d99-40e0-9d7f-187814be7ed2)
+
+Pour exécuter le code il faut se rendre dans le répertoire du projet ou se trouve le main.py et l'exécuter comme ceci : 
+Python main.py
+
