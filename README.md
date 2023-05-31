@@ -35,15 +35,15 @@ LISTE DES OUTILS DIPONIBLES :
 
  - SpiderFoot : https://github.com/smicallef/spiderfoot
  - The Harvester : https://github.com/laramies/theHarvester
- Maltego : https://www.kali.org/tools/maltego/
- Nmap : https://www.kali.org/tools/nmap/
- Gobuster : https://github.com/OJ/gobuster
- Amass : https://github.com/owasp-amass/amass
- Nikto : https://www.kali.org/tools/nikto/
- Wapiti : https://github.com/wapiti-scanner/wapiti
- Wpscan : https://github.com/wpscanteam/wpscan
- Zaproxy : https://github.com/zaproxy/zaproxy
- Burpsuite : https://portswigger.net/burp
+ - Maltego : https://www.kali.org/tools/maltego/
+ - Nmap : https://www.kali.org/tools/nmap/
+ - Gobuster : https://github.com/OJ/gobuster
+ - Amass : https://github.com/owasp-amass/amass
+ - Nikto : https://www.kali.org/tools/nikto/
+ - Wapiti : https://github.com/wapiti-scanner/wapiti
+ - Wpscan : https://github.com/wpscanteam/wpscan
+ - Zaproxy : https://github.com/zaproxy/zaproxy
+ - Burpsuite : https://portswigger.net/burp
 
 Si vous rencontrez un problème avec un outil n'hésitez pas à consulter sa page officielle
 
