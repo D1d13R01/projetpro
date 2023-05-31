@@ -31,20 +31,22 @@ J’espère que cet outil vous servira et vous aidera :)
 
  
 
-LISTE DES TOOLS DIPONIBLES :  # avec le lien github si possible pour chaque tool
+LISTE DES OUTILS DIPONIBLES : 
 
- 
+ SpiderFoot : https://github.com/smicallef/spiderfoot
+ The Harvester : https://github.com/laramies/theHarvester
+ Maltego : https://www.kali.org/tools/maltego/
+ Nmap : https://www.kali.org/tools/nmap/
+ Gobuster : https://github.com/OJ/gobuster
+ Amass : https://github.com/owasp-amass/amass
+ Nikto : https://www.kali.org/tools/nikto/
+ Wapiti : https://github.com/wapiti-scanner/wapiti
+ Wpscan : https://github.com/wpscanteam/wpscan
+ Zaproxy : https://github.com/zaproxy/zaproxy
+ Burpsuite : https://portswigger.net/burp
 
- 
+Si vous rencontrez un problème avec un outil n'hésitez pas à consulter sa page officielle
 
- 
+Si vous avez l'outil en question mais qui ne se lance pas alors n’hésitez pas à faire un clic droit sur l'outil puis cliquer sur Modifier l'application, ensuite modifier son nom en mettant le nom de base de l'outil :
 
- 
-
-#si vous rencontrez un problème avec un outil n'hésitez pas à consulter sa page officiel
-
-#si vous avez l'outil en quesion mais qui ne se lance pas n'hésitez pas alors faite un clique droit sur l'outil puis de le renommer avec son nom tout simplement
-
-voici un exemple :
-
-(mettre une image d'un exemple de renommer un outil)
+![image](https://github.com/D1d13R01/projetpro/assets/135154982/3d454154-6d99-40e0-9d7f-187814be7ed2)
