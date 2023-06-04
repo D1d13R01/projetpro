@@ -11,7 +11,7 @@ Cet outil regroupe un ensemble d'outil qui peut aider n'importe qui à les utili
 Il est très simple d'utilisation, il vous faut dans un premier temps télécharger l'outil puis ensuite de l'exécuter sur votre machine, ensuite voici l'écran qui devrait apparaitre :
 
 
-![image](https://github.com/D1d13R01/projetpro/assets/135154982/bbf261d7-dcb3-4bf9-a33a-6128ebe0c76c)
+![image](https://github.com/D1d13R01/projetpro/assets/135154982/f9982108-a894-4742-8465-ae7b5a7c4658)
 
 
 Ici vous avez les différentes phases de pentest donc à vous de choisir celui que vous voulez, il vous suffira ensuite de taper le numéro correspondant pour rentrer dans le menu choisi.
@@ -51,6 +51,9 @@ Si vous avez l'outil en question mais qui ne se lance pas alors n’hésitez pas
 
 ![image](https://github.com/D1d13R01/projetpro/assets/135154982/3d454154-6d99-40e0-9d7f-187814be7ed2)
 
-Pour exécuter le code il faut se rendre dans le répertoire du projet ou se trouve le main.py et l'exécuter comme ceci : 
-Python main.py
+Pour exécuter le code il faut dans un premier temps télécharger le projet, pour cela il faut lancer la commande suivante dans le terminale :
+- git clone (liens du projet)
+
+Ensuite il faut se rendre dans le répertoire du projet ou se trouve le main.py et l'exécuter comme ceci : 
+Python ./main.py  (exécuter la commande en sudo si nécessaire)
 
